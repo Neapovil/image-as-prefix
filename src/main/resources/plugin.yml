@@ -1,0 +1,6 @@
+name: ImageAsPrefix
+main: com.github.neapovil.imageasprefix.ImageAsPrefix
+version: 1.0.0
+api-version: 1.18
+author: Neapovil
+website: https://github.com/neapovil/image-as-prefix
